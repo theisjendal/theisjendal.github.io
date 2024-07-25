@@ -18,7 +18,7 @@ Education
 Academic and Professional Activities
 ======
 * Fall 2021, Teaching Assistant for Web Intelligence, Aalborg University
-* Fall 2020, Teaching Assistant for Web Intelligence, Aalborg University, Fall 2020
+* Fall 2020, Teaching Assistant for Web Intelligence, Aalborg University
 * 01/09/2018-31/07/2020, IT Employee, Student Programmer, Aalborg University, Department of Computer Science
   * OCR correction using recurrent neural networks and database querying
 * 01/10/2017-31/09/2018, IT Employee, Student Programmer, Aalborg University, School of Information and Communication Technology
