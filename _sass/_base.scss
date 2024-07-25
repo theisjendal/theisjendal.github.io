@@ -313,3 +313,43 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+/* Custom */
+ul.custom-bullets {
+  list-style: none;
+  padding: 0;
+}
+
+ul.custom-bullets li {
+  margin: 5px 0;
+  position: relative;
+  padding-left: 120px; /* Adjust based on the length of the longest bullet text */
+}
+
+ul.custom-bullets li::before {
+  content: attr(data-bullet);
+  position: absolute;
+  left: 0;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+ul.teaching-bullets {
+  list-style: none;
+  padding: 0;
+}
+
+ul.teaching-bullets li {
+  margin: 5px 0;
+  position: relative;
+  padding-left: 120px; /* Adjust based on the length of the longest bullet text */
+}
+
+ul.teaching-bullets li::before {
+  content: attr(data-bullet);
+  position: absolute;
+  left: 0;
+  white-space: nowrap;
+  font-weight: bold;
+}
