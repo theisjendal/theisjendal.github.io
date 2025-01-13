@@ -12,7 +12,7 @@ title                    : "Theis E. Jendal"
 title_separator          : "-"
 name                     : &name "Theis E. Jendal"
 description              : &description "PhD Fellow at Aalborg University"
-url                      : https://theisjendal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jendal.dk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "theisjendal/theisjendal.github.io"
 
