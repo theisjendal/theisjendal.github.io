@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Aalborg University, 2024 (expected)
+* Ph.D in Computer Science, Aalborg University, 2025 (expected)
 * M.S. in Software (Engineering), Aalborg University, 2020
 * B.S. in Software (Engineering), Aalborg University, 2018
 
@@ -39,8 +39,10 @@ Services
 ======
 
 <ul class="custom-bullets">
-    <li data-bullet="Reviewer">TheWebConf'22, TheWebConf'23, CIKM'24, TIST'24</li>
-    <li data-bullet="Subreviewer">SIGIR'21, TheWebConf'22, SIGIR'22, ICDE'22, ISWC'22, VLDB'22,  SIGMOD'22, SIGIR'23, SIGMOD'24, VLDB'24</li>
+    <li data-bullet="Reviewer">TheWebConf'22, TheWebConf'23, CIKM'24, TIST'24, TheWebConf’25, TKDE’25, VLDB’25, 
+        Neurocomputing’25, CIKM’25</li>
+    <li data-bullet="Subreviewer">SIGIR'21, TheWebConf'22, SIGIR'22, ICDE'22, ISWC'22, VLDB'22,  SIGMOD'22, SIGIR'23, 
+        SIGMOD'24, VLDB'24</li>
 </ul>
 
 

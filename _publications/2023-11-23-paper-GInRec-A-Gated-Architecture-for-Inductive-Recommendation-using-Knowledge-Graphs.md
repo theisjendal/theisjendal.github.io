@@ -10,7 +10,7 @@ date: 2023-11-23
 venue: 'Proceedings of the Fifth Knowledge-aware and Conversational Recommender Systems Workshop (KaRS)'
 paperurl: 'https://ceur-ws.org/Vol-3560/long6.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'T. E. Jendal, M. Lissandrini, P. Dolog, and K. Hose, “GInRec: A gated architecture for inductive recommendation using knowledge graphs,” in KaRS, 2023.'
+citation: '<b>T. E. Jendal</b>, M. Lissandrini, P. Dolog, and K. Hose, “GInRec: A gated architecture for inductive recommendation using knowledge graphs,” in KaRS, 2023.'
 ---
 
 We have witnessed increasing interest in exploiting KGs to integrate contextual knowledge in recommender systems in

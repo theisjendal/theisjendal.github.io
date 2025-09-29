@@ -9,7 +9,7 @@ date: 2024-03-20
 venue: 'ECIR: European Conference on Information Retrieval'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-56027-9_14'
-citation: 'T.E. Jendal, TH. Le, H.W. Lauw, M. Lissandrini, P. Dolog, K. Hose, 
+citation: '<b>T.E. Jendal</b>, TH. Le, H.W. Lauw, M. Lissandrini, P. Dolog, K. Hose, 
 "Hypergraphs with Attention on Reviews for Explainable Recommendation," in ECIR, 2024'
 ---
 

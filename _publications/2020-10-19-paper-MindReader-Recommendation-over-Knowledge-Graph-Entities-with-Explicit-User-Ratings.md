@@ -11,7 +11,11 @@ venue: 'CIKM: Proceedings of the 29th ACM International Conference on Informatio
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3340531.3412759'
 dataseturl: 'https://mindreader.tech/dataset/'
-citation: 'A. H. Brams*, A. L. Jakobsen*, T. E. Jendal*, M. Lissandrini, P. Dolog, and K. Hose, “Mindreader: Recommendation over knowledge graph entities with explicit user ratings,” in CIKM, 2020'
+citation: 'A. H. Brams*, A. L. Jakobsen*, <b>T. E. Jendal</b>*, M. Lissandrini, P. Dolog, and K. Hose, “Mindreader: 
+Recommendation over knowledge graph entities with explicit user ratings,” in CIKM, 2020
+<br>
+<small>* Equal contribution</small>
+'
 ---
 
 Knowledge Graphs (KGs) have been integrated in several models of recommendation to augment the informational value of an

@@ -8,7 +8,7 @@ excerpt: 'This study surveys advances and challenges in Knowledge Graph embeddin
 date: 2023-12-19
 venue: 'Transactions on Graph Data and Knowledge'
 paperurl: 'https://hal.science/hal-04373217/'
-citation: 'R. Biswas, L.A. Kaffee, M. Cochez, S. Dumbrava, T.E. Jendal, et al.. "Knowledge graph 
+citation: 'R. Biswas, L.A. Kaffee, M. Cochez, S. Dumbrava, <b>T.E. Jendal</b>, et al.. "Knowledge graph 
 embeddings: open challenges and opportunities," in TGDK, 2023'
 ---
 
