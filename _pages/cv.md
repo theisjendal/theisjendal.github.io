@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Aalborg University, 2025 (expected)
+* Ph.D in Computer Science, Aalborg University, 2026 (expected)
 * M.S. in Software (Engineering), Aalborg University, 2020
 * B.S. in Software (Engineering), Aalborg University, 2018
 
