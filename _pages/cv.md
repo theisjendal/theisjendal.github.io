@@ -26,7 +26,7 @@ Academic and Professional Activities
   
 Skills
 ======
-Python, PyTorch, C\#, Git, Docker, Linux, SPARQL, and SQL
+Python, PyTorch, C\#, Git, Docker, Linux, Databricks, SPARQL, and SQL
 
 Publications
 ======
